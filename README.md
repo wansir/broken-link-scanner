@@ -8,5 +8,6 @@
 ## QuickStarts
 
 ```
-
+git clone https://github.com/wansir/broken-link-scanner.git
+go run broken-link-scanner/main.go https://kubesphere.com.cn/docs
 ```
